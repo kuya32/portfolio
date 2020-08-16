@@ -30,7 +30,7 @@ footer, header, hgroup, menu, nav, section {
 	display: block;}
 
 body {
-	line-height: 1;
+  line-height: 1;
 }
 
 ol, ul {
@@ -83,8 +83,8 @@ html {
 }
 
 body {
-  background: #fff;
-  font-family: 'Source Sans Pro', sans-serif;
+  background: rgb(255, 255, 255);
+  font-family: 'Kalam', cursive;
   font-size: 19pt;
   font-weight: 300;
   line-height: 1.75em;
@@ -103,7 +103,7 @@ body {
   }
 
 input, textarea, select {
-  font-family: 'Source Sans Pro', sans-serif;
+  font-family: 'Kalam', cursive;
   font-size: 19pt;
   font-weight: 300;
   line-height: 1.75em;
@@ -131,11 +131,11 @@ h2 {
 }
 
   h2.alt {
-    color: #888;
+    color: rgb(248, 248, 248);
   }
 
     h2.alt strong {
-      color: #666;
+      color: rgb(248, 248, 248);
     }
 
 h3 {

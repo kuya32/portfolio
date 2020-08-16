@@ -1652,7 +1652,7 @@ table {
   -webkit-justify-content: space-between;
   -ms-justify-content: space-between;
   justify-content: space-between;
-  background: #222629 url("images/overlay.png");
+  background: #182fb1e7 url("images/overlay.png");
   box-shadow: inset -0.25em 0 0.25em 0 rgba(0, 0, 0, 0.1);
   color: #fff;
   height: 100%;
@@ -1854,7 +1854,7 @@ table {
 
     #main > section.one {
       background-color: #81918E;
-      background-image: url("../../images/banner.jpg");
+      background-image: url("../../images/milkovi-skUTVJi8-jc-unsplash.jpg");
     }
 
     #main > section.two {
