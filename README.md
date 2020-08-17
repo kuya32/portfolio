@@ -1,15 +1,15 @@
-# Responsive Portfolio
+# Deployment
 
 ## Time Estimates
 
-- Feature #1: Refactor the CSS
+- Feature #1: Deployment
   - Estimate of time needed to complete: 1 hour
-  - Start time: 6:10 PM
-  - Finish time: 7:30 PM
-  - Actual time needed to complete: 1 hour 20 minutes
+  - Start time: 10:30 PM
+  - Finish time: 11:40 PM
+  - Actual time needed to complete: 1 hour 10 minutes
 
-- Feature #2: Modify the contents
+- Feature #2: Add functionality
   - Estimate of time needed to complete: 1 hour
-  - Start time: 10:00 PM
-  - Finish time: 11:00 PM
-  - Actual time needed to complete: 1 Hour
+  - Start time:
+  - Finish time:
+  - Actual time needed to complete:
