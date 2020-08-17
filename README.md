@@ -11,5 +11,5 @@
 - Feature #2: Modify the contents
   - Estimate of time needed to complete: 1 hour
   - Start time: 10:00 PM
-  - Finish time:
-  - Actual time needed to complete:
+  - Finish time: 11:00 PM
+  - Actual time needed to complete: 1 Hour
